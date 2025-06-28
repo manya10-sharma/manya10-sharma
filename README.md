@@ -14,7 +14,7 @@
 ### 💫 About Me
 
 - 🎓 I’m a final-year B.Tech student passionate about technology and software development.
-- 🎓 I'm actively solving DSA problems in java. 
+- 💻 I'm actively solving DSA problems in java. 
 - 👨‍💻 I’m currently working on Java-based and development projects.
 - 📢 I’m working on improving my communication and soft skills for interviews and teamwork.
 - 📫 Reach me at: aynam1010@gmail.com
@@ -23,10 +23,10 @@
 
 ## 🌐 Connect with me
 
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aynamn8qt//)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/manyasharma10//)
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge)](https://www.naukri.com/code360/profile/10311a7d-eba1-46b8-8f95-c63933c40376)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manya-sharma-9502552a5//)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/manyasharma10//)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aynamn8qt//)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge)](https://www.naukri.com/code360/profile/10311a7d-eba1-46b8-8f95-c63933c40376)
 
 ---
 ### 🔧 Tech Stack
