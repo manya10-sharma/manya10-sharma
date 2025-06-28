@@ -1,7 +1,7 @@
 👋<h1 align="center">Hi 👋, I'm Manya Sharma</h1>
 <h3 align="center">A passionate Java developer & DSA enthusiast</h3>
 
----
+
 
 ### 🧠 Currently Learning
 
@@ -9,7 +9,7 @@
 - ✅ Java projects
 - ✅ Communication & soft skills
 
----
+
 
 ### 💫 About Me
 
@@ -19,7 +19,7 @@
 - 📢 I’m working on improving my communication and soft skills for interviews and teamwork.
 - 📫 Reach me at: aynam1010@gmail.com
 
----
+
 
 ## 🌐 Connect with me
 
@@ -28,7 +28,7 @@
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aynamn8qt//)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge)](https://www.naukri.com/code360/profile/10311a7d-eba1-46b8-8f95-c63933c40376)
 
----
+
 ### 🔧 Tech Stack
 
 <p>
@@ -39,13 +39,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manya10-sharma&show_icons=true&theme=github_dark" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=manya10-sharma&theme=dark&hide_border=false" height="150"/>
 </p>
 
----
+
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore my repos and connect!*
