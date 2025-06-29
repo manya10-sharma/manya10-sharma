@@ -1,5 +1,5 @@
 👋<h1 align="center">Hi 👋, I'm Manya Sharma</h1>
-<h3 align="center">A passionate Java developer & DSA enthusiast</h3>
+<h3 align="center">🚀 Java & Web Developer | 💻 DSA Enthusiast | 👨‍💻 Code. Build. Optimize.</h3>
 
 
 
