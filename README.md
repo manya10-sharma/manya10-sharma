@@ -7,6 +7,7 @@
 
 - ✅ DSA for interview prep
 - ✅ Java projects
+- ✅ Web development projects
 - ✅ Communication & soft skills
 
 
@@ -24,7 +25,7 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manya-sharma-9502552a5//)
-📧 [sharmamanya1011@gmail.com](mailto:sharmamanya1011@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmamanya1011@gmail.com)
 
 
 ### 📘 Coding Practice Profiles    
