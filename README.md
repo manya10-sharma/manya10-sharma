@@ -17,7 +17,7 @@
 - 💻 I'm actively solving DSA problems in java. 
 - 👨‍💻 I’m currently working on Java-based and development projects.
 - 📢 I’m working on improving my communication and soft skills for interviews and teamwork.
-- 📫 Reach me at: aynam1010@gmail.com
+- 📫 Reach me at: sharmamanya1011@gmail.com
 
 
 
