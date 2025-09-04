@@ -24,6 +24,11 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manya-sharma-9502552a5//)
+📧 [sharmamanya1011@gmail.com](mailto:sharmamanya1011@gmail.com)  
+
+
+### 📘 Coding Practice Profiles    
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/manyasharma10//)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aynamn8qt//)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge)](https://www.naukri.com/code360/profile/10311a7d-eba1-46b8-8f95-c63933c40376)
